@@ -19,7 +19,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: col
+        flexDirection: row
         justifyContent: center
         padding:
           - pt-0
