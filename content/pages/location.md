@@ -8,7 +8,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/1377745712.jpg
+      url: /images/trees.jpg
       altText: Dope design preview
       styles:
         self:
@@ -39,10 +39,10 @@ sections:
       self:
         alignItems: center
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-6
+          - pl-6
+          - pb-6
+          - pr-6
 slug: location
 isDraft: false
 seo:
