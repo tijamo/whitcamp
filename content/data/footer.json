@@ -24,5 +24,15 @@
     ],
     "copyrightText": "",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-2",
+                "pl-2",
+                "pb-2",
+                "pr-2"
+            ]
+        }
+    }
 }
