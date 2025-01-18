@@ -39,10 +39,10 @@ sections:
       self:
         alignItems: center
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
 slug: location
 isDraft: false
 seo:
