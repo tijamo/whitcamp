@@ -19,6 +19,7 @@ sections:
             - pl-0
             - pb-0
             - pr-0
+      url: /images/grass.jpg
     colors: bg-light-fg-dark
     styles:
       self:
