@@ -8,7 +8,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/1377745712.jpg
       altText: Dope design preview
       styles:
         self:
