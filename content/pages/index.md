@@ -28,14 +28,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
-      23rd May to 26th May 2025 God willing
+    text: >
+      We are not taking bookings yet but we hope to open bookings soon in 2025. 
 
 
-      We are not taking bookings yet but we hope to open bookings soon in 2025.
       If you have signed up to be on the mailing list, you will receive an email
       when bookings open.
-
     actions: []
     badge:
       label: ''
