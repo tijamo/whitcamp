@@ -13,15 +13,6 @@ sections:
       If you have signed up to be on the mailing list, you will receive an email
       when bookings open.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
