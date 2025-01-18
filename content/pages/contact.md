@@ -18,7 +18,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: center
+        alignItems: flex-end
         flexDirection: row
         justifyContent: flex-end
         padding:
