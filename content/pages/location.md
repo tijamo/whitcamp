@@ -39,7 +39,7 @@ sections:
       type: TitleBlock
       text: Social Media Management
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Location
     text: ''
     actions: []
     colors: bg-light-fg-dark
