@@ -38,7 +38,7 @@ sections:
     title:
       type: TitleBlock
       text: Location
-      color: text-dark
+      color: text-light
     subtitle: How to find camp
     text: ''
     actions: []
