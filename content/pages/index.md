@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: 23rd May to 26th May 2025 God willing
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
