@@ -14,7 +14,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       url: /images/trees.jpg
-      altText: Building
+      altText: Trees
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
