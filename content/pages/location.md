@@ -49,7 +49,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       altText: Building
-      backgroundSize: auto
+      backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
