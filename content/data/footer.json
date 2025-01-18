@@ -3,15 +3,16 @@
     "socialLinks": [],
     "legalLinks": [
         {
-            "label": "Terms",
+            "label": "GDPR Policy",
             "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
+            "icon": "send",
+            "iconPosition": "left",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": false
         },
         {
-            "label": "Privacy",
+            "label": "Safeguarding Policy",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",

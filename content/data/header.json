@@ -13,45 +13,37 @@
     },
     "primaryLinks": [
         {
-            "type": "SubNav",
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary"
+            "type": "Link",
+            "label": "Details",
+            "altText": "",
+            "url": "/details",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Location",
+            "altText": "",
+            "url": "/location",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Contact",
+            "altText": "Play",
+            "url": "/contact",
+            "showIcon": false,
+            "icon": "mail",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
