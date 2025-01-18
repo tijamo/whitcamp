@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 23rd May to 26th May 2025 God willing
+      text: Whit Camp 2025Whit Camp 202523rd May to 26th May 2025 God willing
       color: text-dark
       type: TitleBlock
     subtitle: ''
