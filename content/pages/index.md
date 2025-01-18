@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Whit Camp 2025
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: ''
