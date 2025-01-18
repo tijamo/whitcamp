@@ -8,7 +8,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/grass.jpg
       altText: Grass
       styles:
         self:
