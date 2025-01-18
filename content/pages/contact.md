@@ -15,6 +15,11 @@ sections:
           borderWidth: 0
           borderStyle: none
           borderRadius: none
+          padding:
+            - pt-16
+            - pl-16
+            - pb-16
+            - pr-16
     colors: bg-light-fg-dark
     styles:
       self:
