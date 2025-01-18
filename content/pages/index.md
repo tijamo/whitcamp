@@ -4,6 +4,26 @@ slug: /
 sections:
   - type: GenericSection
     title:
+      type: TitleBlock
+      text: Location
+      color: text-light
+    subtitle: ''
+    text: ''
+    actions: []
+    colors: bg-dark-fg-light
+    backgroundImage:
+      type: BackgroundImage
+      url: /images/building.jpg
+      altText: Building
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+    styles:
+      self:
+        alignItems: center
+  - type: GenericSection
+    title:
       text: ''
       color: text-dark
       type: TitleBlock
