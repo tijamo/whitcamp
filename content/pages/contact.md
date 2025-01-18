@@ -75,10 +75,6 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-    badge:
-      type: Badge
-      label: GET IN TOUCH
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
