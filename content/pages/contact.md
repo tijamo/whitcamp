@@ -32,24 +32,6 @@ sections:
       text: Contact Us
       color: text-dark
     subtitle: ''
-    text: "If you have any booking queries, telephone or email Joyce (<bookings@whitcamp.co.uk>).\n\nFor more general queries, email\_<committee@whitcamp.co.uk>.\n"
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: '-reverse'
-        padding:
-          - pt-6
-          - pr-6
-          - pb-6
-          - pl-6
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Contact Us
-      color: text-dark
-    subtitle: ''
     text: "If you have any booking queries then please telephone or email Joyce (<bookings@whitcamp.co.uk>).\n\nFor more general queries please use the form to the right or email\_<committee@whitcamp.co.uk>.\n"
     actions: []
     media:
