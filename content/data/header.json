@@ -33,6 +33,17 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "LinkedIn",
+            "altText": "LinkedIn",
+            "url": "/contact",
+            "showIcon": true,
+            "icon": "linkedin",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
