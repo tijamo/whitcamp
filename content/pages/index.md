@@ -12,16 +12,7 @@ sections:
       We are not taking bookings yet but we hope to open bookings soon in 2025.
       If you have signed up to be on the mailing list, you will receive an email
       when bookings open.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
