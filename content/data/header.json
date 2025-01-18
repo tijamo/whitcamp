@@ -57,5 +57,6 @@
                 "borderRadius": "medium"
             }
         }
-    }
+    },
+    "title": ""
 }
