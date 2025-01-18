@@ -25,7 +25,7 @@
         {
             "type": "Link",
             "label": "Contact",
-            "altText": "Play",
+            "altText": "Contact Us",
             "url": "/contact",
             "showIcon": false,
             "icon": "mail",
