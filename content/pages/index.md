@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Whit Camp 2025
       color: text-primary
       type: Badge
     elementId: ''
