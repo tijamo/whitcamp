@@ -17,10 +17,10 @@ sections:
         flexDirection: col
         justifyContent: center
         padding:
-          - pt-96
-          - pl-96
-          - pb-96
-          - pr-96
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
   - type: GenericSection
     title:
       type: TitleBlock
