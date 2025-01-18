@@ -9,7 +9,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/grass.jpg
-      altText: Dope design preview
+      altText: Grass
       styles:
         self:
           borderWidth: 0
