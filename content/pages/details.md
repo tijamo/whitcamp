@@ -15,6 +15,8 @@ sections:
       self:
         alignItems: center
         flexDirection: '-reverse'
+        padding:
+          - pt-16
 slug: details
 isDraft: false
 seo:
