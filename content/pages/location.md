@@ -41,14 +41,7 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: ''
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero2.svg
