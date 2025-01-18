@@ -9,7 +9,8 @@
             "iconPosition": "left",
             "style": "secondary",
             "type": "Link",
-            "showIcon": false
+            "showIcon": false,
+            "altText": "GDPR Policy"
         },
         {
             "label": "Safeguarding Policy",
@@ -17,7 +18,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Safeguarding Policy"
         }
     ],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
