@@ -14,6 +14,7 @@ sections:
     styles:
       self:
         alignItems: center
+        flexDirection: '-reverse'
 slug: details
 isDraft: false
 seo:
