@@ -99,7 +99,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contact Us
+      label: GET IN TOUCH
       color: text-primary
     colors: bg-light-fg-dark
 slug: /contact
