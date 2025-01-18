@@ -48,7 +48,7 @@ sections:
         alignItems: center
     backgroundImage:
       type: BackgroundImage
-      altText: altText of the image
+      altText: Building
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
