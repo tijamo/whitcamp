@@ -50,7 +50,7 @@ sections:
       text: Contact Us
       color: text-dark
     subtitle: Section with a form subtitle
-    text: "If you have any booking queries, telephone or email Joyce (<bookings@whitcamp.co.uk>).\n\nFor more general queries, email\_<committee@whitcamp.co.uk>.\n"
+    text: "If you have any booking queries then please telephone or email Joyce (<bookings@whitcamp.co.uk>).\n\nFor more general queries please use the form to the right or email\_<committee@whitcamp.co.uk>.\n"
     actions: []
     media:
       type: FormBlock
