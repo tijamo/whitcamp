@@ -31,6 +31,13 @@ sections:
           - pl-0
           - pb-0
           - pr-0
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - type: GenericSection
     title:
       type: TitleBlock
