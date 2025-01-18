@@ -13,6 +13,7 @@ sections:
       styles:
         self:
           borderWidth: 8
+          borderStyle: none
     colors: bg-light-fg-dark
     styles:
       self:
