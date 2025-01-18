@@ -13,7 +13,7 @@ sections:
     colors: bg-dark-fg-light
     backgroundImage:
       type: BackgroundImage
-      url: /images/building.jpg
+      url: /images/grass.jpg
       altText: Building
       backgroundSize: cover
       backgroundPosition: center
