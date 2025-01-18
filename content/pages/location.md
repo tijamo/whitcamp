@@ -8,7 +8,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/1377745712.jpg
+      url: /images/trees.jpg
       altText: Dope design preview
       styles:
         self:
