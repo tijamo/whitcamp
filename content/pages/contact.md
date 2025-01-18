@@ -80,6 +80,13 @@ sections:
       label: GET IN TOUCH
       color: text-primary
     colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-6
+          - pl-6
+          - pb-6
+          - pr-6
 slug: /contact
 isDraft: false
 seo:
