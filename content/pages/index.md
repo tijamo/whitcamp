@@ -4,17 +4,21 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 23rd May to 26th May 2025 God willing
+      text: Whit Camp 2025
       color: text-dark
       type: TitleBlock
     subtitle: ''
     text: >
+      23rd May to 26th May 2025 God willing
+
+
+
       We are not taking bookings yet but we hope to open bookings soon in 2025.
       If you have signed up to be on the mailing list, you will receive an email
       when bookings open.
     actions: []
     badge:
-      label: Whit Camp 2025
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
@@ -28,16 +32,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
