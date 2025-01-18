@@ -14,7 +14,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: col-reverse
+        flexDirection: col
         justifyContent: center
   - type: GenericSection
     title:
