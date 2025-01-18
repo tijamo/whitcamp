@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Location
+      text: Whit Camp 2025
       color: text-light
     subtitle: ''
     text: ''
