@@ -3,43 +3,6 @@ type: PageLayout
 title: Details
 sections:
   - type: GenericSection
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      altText: Grass
-      styles:
-        self:
-          borderWidth: 0
-          borderStyle: none
-          borderRadius: none
-          padding:
-            - pt-0
-            - pl-0
-            - pb-0
-            - pr-0
-      url: /images/grass.jpg
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: flex-end
-        flexDirection: row
-        justifyContent: flex-end
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-    backgroundImage:
-      type: BackgroundImage
-      altText: Grass
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/grass.jpg
-  - type: GenericSection
     title:
       type: TitleBlock
       text: ''
