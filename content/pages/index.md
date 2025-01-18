@@ -52,10 +52,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-6
+          - pl-6
+          - pb-6
+          - pr-6
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
