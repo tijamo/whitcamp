@@ -37,7 +37,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Location
       color: text-dark
     subtitle: Location
     text: ''
