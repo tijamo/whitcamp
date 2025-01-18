@@ -5,7 +5,7 @@
         {
             "label": "GDPR Policy",
             "url": "/",
-            "icon": "arrowRight",
+            "icon": "send",
             "iconPosition": "left",
             "style": "secondary",
             "type": "Link",
