@@ -19,6 +19,7 @@ sections:
           - pt-16
           - pr-16
           - pb-16
+          - pl-16
 slug: details
 isDraft: false
 seo:
