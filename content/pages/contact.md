@@ -33,7 +33,7 @@ sections:
           - pr-0
     backgroundImage:
       type: BackgroundImage
-      altText: altText of the image
+      altText: Grass
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
