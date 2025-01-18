@@ -9,7 +9,8 @@
             "iconPosition": "left",
             "style": "secondary",
             "type": "Link",
-            "showIcon": false
+            "showIcon": false,
+            "altText": "GDPR Policy"
         },
         {
             "label": "Safeguarding Policy",
