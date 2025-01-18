@@ -14,9 +14,9 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "Location",
+            "label": "Details",
             "altText": "",
-            "url": "/location",
+            "url": "/details",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -25,9 +25,9 @@
         },
         {
             "type": "Link",
-            "label": "Details",
+            "label": "Location",
             "altText": "",
-            "url": "/details",
+            "url": "/location",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
