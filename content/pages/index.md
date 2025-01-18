@@ -3,43 +3,37 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    subtitle: ''
+    title:
+      type: TitleBlock
+      text: Whit Camp 2025
+      color: text-light
+    subtitle: 23rd May to 26th May 2025 God willing
     text: ''
     actions: []
-    media:
-      type: ImageBlock
+    colors: bg-dark-fg-light
+    backgroundImage:
+      type: BackgroundImage
       url: /images/building.jpg
       altText: Building
-      styles:
-        self:
-          borderWidth: 0
-          borderStyle: none
-          borderRadius: none
-    colors: bg-light-fg-dark
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
     styles:
       self:
         alignItems: center
-        flexDirection: col
-        justifyContent: center
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
   - type: GenericSection
     title:
-      text: Whit Camp 2025
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
-      23rd May to 26th May 2025 God willing
+    text: >
+      We are not taking bookings yet but we hope to open bookings soon in 2025. 
 
 
-      We are not taking bookings yet but we hope to open bookings soon in 2025.
       If you have signed up to be on the mailing list, you will receive an email
       when bookings open.
-
     actions: []
     badge:
       label: ''
