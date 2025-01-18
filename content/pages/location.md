@@ -12,7 +12,7 @@ sections:
       altText: Dope design preview
       styles:
         self:
-          borderWidth: 8
+          borderWidth: 0
           borderStyle: none
     colors: bg-light-fg-dark
     styles:
