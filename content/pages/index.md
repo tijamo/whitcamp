@@ -13,11 +13,6 @@ sections:
       If you have signed up to be on the mailing list, you will receive an email
       when bookings open.
     actions: []
-    media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: Whit Camp 2025
       color: text-primary
