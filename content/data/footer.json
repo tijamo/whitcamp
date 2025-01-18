@@ -23,7 +23,7 @@
         }
     ],
     "copyrightText": "",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-neutral-fg-dark",
     "type": "Footer",
     "styles": {
         "self": {
