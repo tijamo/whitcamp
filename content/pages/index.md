@@ -14,7 +14,7 @@ sections:
       when bookings open.
     actions: []
     badge:
-      label: Whit Camp 2025
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
