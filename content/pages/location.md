@@ -42,10 +42,6 @@ sections:
     subtitle: Increase your reach
     text: ''
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
       self:
