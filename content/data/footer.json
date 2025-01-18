@@ -9,7 +9,7 @@
             "iconPosition": "left",
             "style": "secondary",
             "type": "Link",
-            "showIcon": true
+            "showIcon": false
         },
         {
             "label": "Safeguarding Policy",
