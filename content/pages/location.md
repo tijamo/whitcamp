@@ -14,6 +14,7 @@ sections:
         self:
           borderWidth: 0
           borderStyle: none
+          borderRadius: none
     colors: bg-light-fg-dark
     styles:
       self:
