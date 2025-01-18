@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Whit Camp 2025
       color: text-light
-    subtitle: ''
+    subtitle: 23rd May to 26th May 2025 God willing
     text: ''
     actions: []
     colors: bg-dark-fg-light
