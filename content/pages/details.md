@@ -40,10 +40,10 @@ sections:
         alignItems: center
         flexDirection: '-reverse'
         padding:
-          - pt-16
-          - pr-16
-          - pb-16
-          - pl-16
+          - pt-6
+          - pr-6
+          - pb-6
+          - pl-6
 slug: details
 isDraft: false
 seo:
