@@ -39,7 +39,7 @@
             "label": "Contact",
             "altText": "Play",
             "url": "/contact",
-            "showIcon": true,
+            "showIcon": false,
             "icon": "mail",
             "iconPosition": "right",
             "style": "secondary",
