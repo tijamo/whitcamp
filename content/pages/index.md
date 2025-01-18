@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      We are not taking bookings yet but we hope to open bookings soon in 2025.
+      If you have signed up to be on the mailing list, you will receive an email
+      when bookings open.
     actions:
       - label: Get started
         altText: ''
