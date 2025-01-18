@@ -3,38 +3,6 @@ type: PageLayout
 title: Details
 sections:
   - type: GenericSection
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/trees.jpg
-      altText: Dope design preview
-      styles:
-        self:
-          borderWidth: 0
-          borderStyle: none
-          borderRadius: none
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: col
-        justifyContent: center
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/trees.jpg
-  - type: GenericSection
     title:
       type: TitleBlock
       text: ''
