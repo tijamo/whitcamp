@@ -13,47 +13,6 @@
     },
     "primaryLinks": [
         {
-            "type": "SubNav",
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary"
-        },
-        {
             "type": "Link",
             "label": "See Tutorials",
             "altText": "",
