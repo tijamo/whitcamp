@@ -9,7 +9,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/building.jpg
-      altText: Dope design preview
+      altText: Building
       styles:
         self:
           borderWidth: 0
