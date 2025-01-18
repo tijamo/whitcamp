@@ -3,46 +3,29 @@ type: PageLayout
 title: Details
 sections:
   - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Contact Us
+      color: text-light
     subtitle: ''
     text: ''
     actions: []
-    media:
-      type: ImageBlock
-      altText: Grass
-      styles:
-        self:
-          borderWidth: 0
-          borderStyle: none
-          borderRadius: none
-          padding:
-            - pt-0
-            - pl-0
-            - pb-0
-            - pr-0
-      url: /images/grass.jpg
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: flex-end
-        flexDirection: row
-        justifyContent: flex-end
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
+    colors: bg-dark-fg-light
     backgroundImage:
       type: BackgroundImage
+      url: /images/grass.jpg
       altText: Grass
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/grass.jpg
+    styles:
+      self:
+        alignItems: center
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Contact Us
+      text: ''
       color: text-dark
     subtitle: ''
     text: "If you have any booking queries then please telephone or email Joyce (<bookings@whitcamp.co.uk>).\n\nFor more general queries please use the form to the right or email\_<committee@whitcamp.co.uk>.\n"
