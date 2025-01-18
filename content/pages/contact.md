@@ -25,7 +25,7 @@ sections:
           - pt-0
           - pl-0
           - pb-0
-          - pr-0
+          - pr-1
   - type: GenericSection
     title:
       type: TitleBlock
