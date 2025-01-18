@@ -3,6 +3,30 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/building.jpg
+      altText: Dope design preview
+      styles:
+        self:
+          borderWidth: 0
+          borderStyle: none
+          borderRadius: none
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col
+        justifyContent: center
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+  - type: GenericSection
     title:
       text: Whit Camp 2025
       color: text-dark
@@ -28,10 +52,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-6
+          - pl-6
+          - pb-6
+          - pr-6
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
