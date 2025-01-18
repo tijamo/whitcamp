@@ -25,17 +25,6 @@
         },
         {
             "type": "Link",
-            "label": "Contact",
-            "altText": "Play",
-            "url": "/contact",
-            "showIcon": true,
-            "icon": "mail",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
             "label": "Location",
             "altText": "",
             "url": "/location",
@@ -43,6 +32,17 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Contact",
+            "altText": "Play",
+            "url": "/contact",
+            "showIcon": true,
+            "icon": "mail",
+            "iconPosition": "right",
+            "style": "secondary",
             "elementId": ""
         }
     ],
