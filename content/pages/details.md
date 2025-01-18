@@ -33,6 +33,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/trees.jpg
   - type: GenericSection
     title:
       type: TitleBlock
