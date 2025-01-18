@@ -17,6 +17,7 @@ sections:
         flexDirection: '-reverse'
         padding:
           - pt-16
+          - pr-16
 slug: details
 isDraft: false
 seo:
