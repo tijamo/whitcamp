@@ -14,7 +14,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       url: /images/grass.jpg
-      altText: Building
+      altText: Grass
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
