@@ -15,7 +15,7 @@ sections:
       type: BackgroundImage
       url: /images/building.jpg
       altText: Building
-      backgroundSize: cover
+      backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
