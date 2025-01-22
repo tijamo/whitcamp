@@ -37,11 +37,12 @@
     "secondaryLinks": [
         {
             "label": "Bookings",
-            "url": "/",
+            "url": "/bookings",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Booking"
         }
     ],
     "variant": "logo-left-primary-nav-right",
@@ -49,7 +50,7 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/whitcamp.svg",
+        "url": "/images/white header logo.png",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
