@@ -10,7 +10,7 @@ sections:
     subtitle: 23rd May to 26th May 2025 God willing
     text: ''
     actions: []
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
