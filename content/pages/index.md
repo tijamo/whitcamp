@@ -78,7 +78,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We are not taking bookings yet but we hope to open bookings soon in 2025. 
+      Bookings open Sunday 26th January at 7pm
 
 
       If you have signed up to be on the mailing list, you will receive an email
