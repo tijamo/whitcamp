@@ -26,7 +26,7 @@ sections:
           - pb-0
           - pr-0
   - type: GenericSection
-    subtitle: 23rd May to 26th May 2025 God willing
+    subtitle: ''
     text: ''
     actions: []
     colors: bg-light-fg-dark
