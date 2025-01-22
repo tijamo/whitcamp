@@ -39,7 +39,7 @@ sections:
           - pl-6
           - pb-6
           - pr-6
-slug: bookings
+slug: /bookings
 isDraft: false
 seo:
   type: Seo
