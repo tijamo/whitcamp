@@ -41,7 +41,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Booking"
         }
     ],
     "variant": "logo-left-primary-nav-right",
