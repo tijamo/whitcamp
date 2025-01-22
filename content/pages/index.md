@@ -51,12 +51,6 @@ sections:
       We're back in Leicestershire at Grace Dieu Manor for another fantastic
       weekend of fun, fellowship and worship
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
