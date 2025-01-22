@@ -1,0 +1,91 @@
+---
+type: PageLayout
+title: Contact Us
+sections:
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Contact Us
+      color: text-light
+    subtitle: ''
+    text: ''
+    actions: []
+    colors: bg-dark-fg-light
+    backgroundImage:
+      type: BackgroundImage
+      url: /images/Banner 2.png
+      altText: Grass
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+    styles:
+      self:
+        alignItems: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: "If you have any booking queries then please telephone or email Joyce (<bookings@whitcamp.co.uk>).\n\nFor more general queries please use the form to the right or email\_<committee@whitcamp.co.uk>.\n"
+    actions: []
+    media:
+      type: FormBlock
+      fields:
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Send
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: x-large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-6
+          - pl-6
+          - pb-6
+          - pr-6
+slug: /thank-you
+isDraft: false
+seo:
+  type: Seo
+  metaTitle: Landing Page
+  metaDescription: Write here your new page's description including most relevant keywords.
+  addTitleSuffix: true
+  socialImage: /images/main-hero.jpg
+  metaTags: []
+---
