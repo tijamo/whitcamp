@@ -20,7 +20,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: top
       backgroundRepeat: no-repeat
-      opacity: 84
+      opacity: 80
       url: /images/Banner 1.png
   - type: GenericSection
     title:
