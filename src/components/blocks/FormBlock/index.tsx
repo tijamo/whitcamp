@@ -26,7 +26,6 @@ export default function FormBlock(props) {
             action="/thank-you"
             method="post"
             data-netlify="true"
-            netlify
             className={classNames(
                 'sb-component',
                 'sb-component-block',
