@@ -8,7 +8,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Banner 1.png
       altText: Dope design preview
       styles:
         self:
