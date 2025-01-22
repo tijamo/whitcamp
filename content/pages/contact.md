@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Details
+title: Contact Us
 sections:
   - type: GenericSection
     title:
@@ -13,7 +13,7 @@ sections:
     colors: bg-dark-fg-light
     backgroundImage:
       type: BackgroundImage
-      url: /images/grass.jpg
+      url: /images/Banner 2.png
       altText: Grass
       backgroundSize: cover
       backgroundPosition: center
@@ -55,7 +55,7 @@ sections:
           width: full
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Send
         icon: arrowRight
         iconPosition: right
         style: primary
