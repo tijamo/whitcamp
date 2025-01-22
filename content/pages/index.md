@@ -11,14 +11,6 @@ sections:
     text: ''
     actions: []
     colors: bg-dark-fg-light
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/building.jpg
-      altText: Building
-      backgroundSize: cover
-      backgroundPosition: top
-      backgroundRepeat: no-repeat
-      opacity: 100
     styles:
       self:
         alignItems: center
