@@ -44,7 +44,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: WHIT CAMP 2025
       color: text-dark
     subtitle: Be in good company
     text: >
