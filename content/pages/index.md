@@ -3,25 +3,74 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Whit Camp 2025
-      color: text-light
-    subtitle: 23rd May to 26th May 2025 God willing
+    subtitle: ''
     text: ''
     actions: []
-    colors: bg-dark-fg-light
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/building.jpg
-      altText: Building
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
+    media:
+      type: ImageBlock
+      altText: Dope design preview
+      styles:
+        self:
+          borderWidth: 0
+          borderStyle: none
+          borderRadius: none
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
+        flexDirection: col
+        justifyContent: center
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+  - type: GenericSection
+    subtitle: ''
+    text: ''
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: cover
+      backgroundPosition: top
+      backgroundRepeat: no-repeat
+      opacity: 80
+      url: /images/Banner 2.png
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: WHIT CAMP 2025
+      color: text-dark
+    subtitle: Be in good company
+    text: >
+      We're back in Leicestershire at Grace Dieu Manor for another fantastic
+      weekend of fun, fellowship and worship
+    actions:
+      - type: Link
+        label: Click the links above more information to make a booking
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      altText: Dope design preview
+      url: /images/Main Logo.png
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - type: GenericSection
     title:
       text: ''
@@ -29,7 +78,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We are not taking bookings yet but we hope to open bookings soon in 2025. 
+      ### Bookings open Sunday 26th January 7pm
 
 
       If you have signed up to be on the mailing list, you will receive an email
@@ -50,6 +99,8 @@ sections:
           - pl-6
           - pb-6
           - pr-6
+      text:
+        textAlign: justify
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
