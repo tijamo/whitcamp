@@ -21,6 +21,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/Banner 1.png
   - type: GenericSection
     title:
       text: ''
