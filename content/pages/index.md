@@ -50,6 +50,17 @@ sections:
           - pl-6
           - pb-6
           - pr-6
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
