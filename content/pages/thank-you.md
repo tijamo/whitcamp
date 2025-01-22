@@ -29,7 +29,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: |
-      Thank you!
+      ## Thank you!
 
       We'll get back to you as soon as we can.
 
