@@ -100,7 +100,7 @@ sections:
           - pb-6
           - pr-6
       text:
-        textAlign: left
+        textAlign: justify
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
