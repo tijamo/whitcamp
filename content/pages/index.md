@@ -40,7 +40,7 @@ sections:
       backgroundPosition: top
       backgroundRepeat: no-repeat
       opacity: 80
-      url: /images/Banner 1.png
+      url: /images/Banner 2.png
   - type: GenericSection
     title:
       type: TitleBlock
