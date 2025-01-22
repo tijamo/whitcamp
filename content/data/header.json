@@ -37,7 +37,7 @@
     "secondaryLinks": [
         {
             "label": "Bookings",
-            "url": "/",
+            "url": "/bookings",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
