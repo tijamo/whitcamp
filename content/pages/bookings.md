@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Location
+title: bookings
 sections:
   - type: GenericSection
     title:
