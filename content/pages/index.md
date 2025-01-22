@@ -18,7 +18,7 @@ sections:
       type: BackgroundImage
       altText: altText of the image
       backgroundSize: auto
-      backgroundPosition: center
+      backgroundPosition: top
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/Banner 1.png
