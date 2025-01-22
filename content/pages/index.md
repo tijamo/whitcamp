@@ -48,8 +48,8 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      We're back in Leicestershire at Grace Dieu Manor for another fantastic
+      weekend of fun, fellowship and worship
     actions:
       - type: Button
         label: Get started
