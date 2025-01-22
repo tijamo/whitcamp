@@ -13,7 +13,7 @@ sections:
     colors: bg-dark-fg-light
     backgroundImage:
       type: BackgroundImage
-      url: /images/grass.jpg
+      url: /images/Banner 2.png
       altText: Grass
       backgroundSize: cover
       backgroundPosition: center
