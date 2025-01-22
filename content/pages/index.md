@@ -67,6 +67,7 @@ sections:
     media:
       type: ImageBlock
       altText: Dope design preview
+      url: /images/Logo.jpg
     badge:
       type: Badge
       label: This is a badge
