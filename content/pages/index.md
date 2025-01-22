@@ -3,26 +3,6 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Whit Camp 2025
-      color: text-light
-    subtitle: 23rd May to 26th May 2025 God willing
-    text: ''
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: top
-      backgroundRepeat: no-repeat
-      opacity: 80
-      url: /images/Banner 1.png
-  - type: GenericSection
     subtitle: ''
     text: ''
     actions: []
@@ -46,6 +26,26 @@ sections:
           - pl-0
           - pb-0
           - pr-0
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Whit Camp 2025
+      color: text-light
+    subtitle: 23rd May to 26th May 2025 God willing
+    text: ''
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: top
+      backgroundRepeat: no-repeat
+      opacity: 80
+      url: /images/Banner 1.png
   - type: GenericSection
     title:
       text: ''
