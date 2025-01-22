@@ -27,6 +27,26 @@ sections:
           - pr-0
   - type: GenericSection
     title:
+      type: TitleBlock
+      text: Whit Camp 2025
+      color: text-light
+    subtitle: 23rd May to 26th May 2025 God willing
+    text: ''
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: cover
+      backgroundPosition: top
+      backgroundRepeat: no-repeat
+      opacity: 80
+      url: /images/Banner 1.png
+  - type: GenericSection
+    title:
       text: ''
       color: text-dark
       type: TitleBlock
@@ -53,26 +73,6 @@ sections:
           - pl-6
           - pb-6
           - pr-6
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Whit Camp 2025
-      color: text-light
-    subtitle: 23rd May to 26th May 2025 God willing
-    text: ''
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: top
-      backgroundRepeat: no-repeat
-      opacity: 80
-      url: /images/Banner 1.png
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
