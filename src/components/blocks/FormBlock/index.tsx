@@ -23,6 +23,8 @@ export default function FormBlock(props) {
 
     return (
         <form 
+            action="/thank-you"
+            method="post"
             data-netlify="true"
             className={classNames(
                 'sb-component',
