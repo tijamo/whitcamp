@@ -26,10 +26,6 @@ sections:
           - pb-0
           - pr-0
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Whit Camp 2025
-      color: text-light
     subtitle: 23rd May to 26th May 2025 God willing
     text: ''
     actions: []
