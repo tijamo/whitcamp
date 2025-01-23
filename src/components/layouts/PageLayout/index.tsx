@@ -35,8 +35,7 @@ export default function PageLayout(props) {
                         })}
                     </div>
                 )}
-                <!-- A little help for the Netlify post-processing bots -->
-                <form name="contact" netlify netlify-honeypot="bot-field" hidden>
+                <form name="contact" data-netlify="true" netlify-honeypot="bot-field" style="visibility:hidden;">
                     <input type="text" name="name" />
                     <input type="email" name="email" />
                     <textarea name="message"></textarea>
