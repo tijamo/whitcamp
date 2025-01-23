@@ -35,6 +35,11 @@ export default function PageLayout(props) {
                         })}
                     </div>
                 )}
+                <form name="contact" data-netlify="true" netlify-honeypot="bot-field">
+                    <input type="text" name="name" />
+                    <input type="email" name="email" />
+                    <textarea name="message"></textarea>
+                </form>
             </main>
         </BaseLayout>
     );
