@@ -24,8 +24,9 @@ export default function FormBlock(props) {
     return (
         <form 
             action="/thank-you"
-            method="post"
+            method="POST"
             data-netlify="true"
+            data-netlify-honeypot="bot-field"
             className={classNames(
                 'sb-component',
                 'sb-component-block',
