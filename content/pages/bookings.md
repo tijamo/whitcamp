@@ -33,8 +33,7 @@ sections:
       to avoid disappointment!
 
 
-      [Book
-      Now](https://docs.google.com/forms/d/e/1FAIpQLSfJ2rB0FjO-https://forms.gle/oBUAye3DMwujsh2FA)
+      [Book Now](https://forms.gle/oBUAye3DMwujsh2FA)
     actions: []
     colors: bg-light-fg-dark
     styles:
