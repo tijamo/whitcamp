@@ -36,8 +36,8 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Bookings",
-            "url": "/bookings",
+            "label": "Book Now",
+            "url": "https://forms.gle/oBUAye3DMwujsh2FA",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
