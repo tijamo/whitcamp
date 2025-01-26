@@ -34,7 +34,7 @@ sections:
 
 
       [Book
-      Now](https://docs.google.com/forms/d/e/1FAIpQLSfJ2rB0FjO-Mcf74e6vcWxTAAH8yz5b1ciX0hsHGTc7bc6gMg)
+      Now](https://docs.google.com/forms/d/e/1FAIpQLSfJ2rB0FjO-https://forms.gle/oBUAye3DMwujsh2FA)
     actions: []
     colors: bg-light-fg-dark
     styles:
