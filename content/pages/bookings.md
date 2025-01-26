@@ -31,6 +31,10 @@ sections:
     text: >
       Bookings open 7pm on Sunday January 26th. Spaces are limited so book early
       to avoid disappointment!
+
+
+      [Book
+      Now](https://docs.google.com/forms/d/e/1FAIpQLSfJ2rB0FjO-Mcf74e6vcWxTAAH8yz5b1ciX0hsHGTc7bc6gMg)
     actions: []
     colors: bg-light-fg-dark
     styles:
