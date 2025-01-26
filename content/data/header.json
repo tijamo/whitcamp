@@ -36,7 +36,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Bookings",
+            "label": "Book Here",
             "url": "/bookings",
             "icon": "arrowRight",
             "iconPosition": "right",
