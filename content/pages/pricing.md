@@ -43,8 +43,9 @@ sections:
         title: ''
         price: Regular
         details: ''
-        description: |
-          Post April 28th 2025
+        description: |2+
+           Post April 28th 2025 Prices
+
         features:
           - Feature one
           - Feature two
