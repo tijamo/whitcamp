@@ -21,7 +21,7 @@ sections:
           accusantium doloremque.
         features:
           - Adults (18+) - £81 Weekend / £27 Day
-          - Concession
+          - Concession - £69 Weekend / £23 Day
           - Students
           - Children (5-13)
           - Under 5's
