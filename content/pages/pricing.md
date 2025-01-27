@@ -47,7 +47,7 @@ sections:
            Post April 28th 2025 Prices
 
         features:
-          - Adults (18+) -
+          - Adults (18+) - £90 Weekend / £30 Day
           - Concession -
           - Students -
           - Children (5-13) -
