@@ -16,9 +16,8 @@ sections:
         title: ''
         price: Early Bird
         details: Pre April 28th 2025
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Pre April 28th 2025 PRICES
         features:
           - Adults (18+) - £81 Weekend / £27 Day
           - Concession - £69 Weekend / £23 Day
