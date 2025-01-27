@@ -28,7 +28,7 @@ sections:
           - FAMILY CAP - £282 Weekend / £94 Day
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/rodolfo-barretto-ACB5nvhnm6c-unsplash.jpg
           altText: Pricing plan 1
         actions: []
         colors: bg-neutral-fg-dark
