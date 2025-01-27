@@ -50,7 +50,7 @@ sections:
           - Adults (18+) -
           - Concession -
           - Students -
-          - Feature four
+          - Children (5-13)
           - ''
           - ''
         image:
