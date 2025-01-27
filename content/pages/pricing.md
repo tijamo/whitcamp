@@ -1,39 +1,57 @@
 ---
+type: PageLayout
 title: Pricing
-slug: pricing
 sections:
-  - title:
-      text: Flexible Pricing
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Pricing
+      color: text-light
+    subtitle: ''
+    text: ''
+    actions: []
+    colors: bg-dark-fg-light
+    backgroundImage:
+      type: BackgroundImage
+      url: /images/Banner 1.png
+      altText: Building
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+    styles:
+      self:
+        alignItems: center
+  - type: PricingSection
+    title:
+      type: TitleBlock
+      text: ''
       color: text-dark
       styles:
         self:
           textAlign: center
-      type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: ''
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - type: PricingPlan
+        title: ''
+        price: Early Bird
+        details: ''
+        description: |
+          Pre April 28th 2025 PRICES
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Adults (18+) - £81 Weekend / £27 Day
+          - Concession - £69 Weekend / £23 Day
+          - Students - £60 Weekend / £20 Day
+          - Children (14-17) - £60 Weekend / £20 Day
+          - Children (5-13) - £51 Weekend / £17 Day
+          - Under 5's - Free
+          - FAMILY CAP - £282 Weekend / £94 Day
         image:
-          url: /images/abstract-feature1.svg
+          type: ImageBlock
+          url: /images/clock.png
           altText: Pricing plan 1
-          type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
+        actions: []
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -42,30 +60,27 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
-        type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - type: PricingPlan
+        title: ''
+        price: Standard
+        details: ''
+        description: |2+
+           Post April 28th 2025 Prices
+
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Adults (18+) - £90 Weekend / £30 Day
+          - Concession - £78 Weekend / £26 Day
+          - Students -£69 Weekend / £23 Day
+          - Children (14-17) - £69 Weekend / £23 Day
+          - Children (5-13) - £60 Weekend / £20
+          - Under 5's - Free
+          - FAMILY CAP - £318 Weekend / £98 Day
         image:
-          url: /images/abstract-feature2.svg
+          type: ImageBlock
+          url: /images/pig.png
           altText: Pricing plan 2
-          type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
+        actions: []
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -74,51 +89,17 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
-        type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
-        image:
-          url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
-          type: ImageBlock
-        actions:
-          - label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
       subtitle:
         textAlign: center
-    type: PricingSection
+slug: Pricing
 seo:
+  type: Seo
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
   socialImage: /images/main-hero.jpg
-  type: Seo
-type: PageLayout
+  metaTags: []
 ---

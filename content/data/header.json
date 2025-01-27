@@ -24,6 +24,17 @@
         },
         {
             "type": "Link",
+            "label": "Pricing",
+            "altText": "",
+            "url": "/Pricing",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
             "label": "Contact",
             "altText": "Contact Us",
             "url": "/contact",
