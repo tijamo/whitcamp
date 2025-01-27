@@ -14,7 +14,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Developers
-        price: Free
+        price: Early Bird
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
