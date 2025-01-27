@@ -24,6 +24,7 @@ sections:
           - Concession
           - Students
           - Children (5-13)
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
