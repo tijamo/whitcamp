@@ -35,7 +35,7 @@
         },
         {
             "type": "Link",
-            "label": "Pricingls",
+            "label": "Pricing",
             "altText": "",
             "url": "/pricing",
             "showIcon": false,
