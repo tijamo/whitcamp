@@ -52,7 +52,7 @@ sections:
           - Students -£69 Weekend / £23 Day
           - Children (5-13) - £60 Weekend / £20
           - Under 5's - Free
-          - FAMILY CAP -
+          - FAMILY CAP - £318 Weekend / £98 Day
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
