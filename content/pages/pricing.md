@@ -52,7 +52,7 @@ sections:
           - Students -
           - Children (5-13) -
           - Under 5's - Free
-          - ''
+          - FAMILY CAP -
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
