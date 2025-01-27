@@ -24,6 +24,7 @@ sections:
           - Students - £60 Weekend / £20 Day
           - Children (5-13) - £51 Weekend / £17 Day
           - Under 5's - Free
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
