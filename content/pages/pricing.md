@@ -57,7 +57,7 @@ sections:
           - FAMILY CAP - £318 Weekend / £98 Day
         image:
           type: ImageBlock
-          url: /images/fabian-blank-pElSkGRA2NU-unsplash.jpg
+          url: /images/pig.png
           altText: Pricing plan 2
         actions: []
         colors: bg-dark-fg-light
