@@ -35,7 +35,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Pricing",
             "altText": "",
             "url": "/pricing",
             "showIcon": false,
