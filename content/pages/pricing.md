@@ -20,7 +20,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - Adults (18+)
+          - Adults (18+) - £81 Weekend / £27 Day
           - Concession
           - Students
           - Children (5-13)
