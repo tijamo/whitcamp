@@ -22,7 +22,7 @@ sections:
         features:
           - Adults (18+)
           - Concession
-          - Feature three
+          - Students
           - Feature four
         image:
           type: ImageBlock
