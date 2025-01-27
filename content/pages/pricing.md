@@ -41,7 +41,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: Regular
+        price: Standard
         details: ''
         description: |2+
            Post April 28th 2025 Prices
