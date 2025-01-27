@@ -45,7 +45,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Professional
+        title: ''
         price: Regular
         details: After April 28th 2025
         description: >-
