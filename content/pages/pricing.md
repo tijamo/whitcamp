@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: Early Bird
-        details: Pre April 28th 2025
+        details: ''
         description: |
           Pre April 28th 2025 PRICES
         features:
