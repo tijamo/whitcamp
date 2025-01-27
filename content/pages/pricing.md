@@ -47,7 +47,7 @@ sections:
            Post April 28th 2025 Prices
 
         features:
-          - Feature one
+          - Adults (18+) -
           - Feature two
           - Feature three
           - Feature four
