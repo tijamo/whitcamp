@@ -37,7 +37,7 @@
             "type": "Link",
             "label": "Pricing",
             "altText": "",
-            "url": "/pricing",
+            "url": "/Pricing",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
