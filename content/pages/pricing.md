@@ -47,7 +47,7 @@ sections:
       - type: PricingPlan
         title: Professional
         price: Regular
-        details: per month
+        details: After April 28th 2025
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
