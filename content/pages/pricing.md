@@ -42,7 +42,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: Regular
-        details: After April 28th 2025
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
