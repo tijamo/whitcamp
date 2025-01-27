@@ -22,7 +22,7 @@ sections:
         features:
           - Adults (18+) - £81 Weekend / £27 Day
           - Concession - £69 Weekend / £23 Day
-          - Students
+          - Students - £60 Weekend / £20 Day
           - Children (5-13)
           - Under 5's
         image:
