@@ -20,7 +20,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - Feature one
+          - Adults (18+)
           - Feature two
           - Feature three
           - Feature four
