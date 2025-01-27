@@ -43,9 +43,8 @@ sections:
         title: ''
         price: Regular
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Post April 28th 2025
         features:
           - Feature one
           - Feature two
