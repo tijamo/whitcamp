@@ -25,7 +25,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: 2025 Prices
+      text: ''
       color: text-dark
       styles:
         self:
