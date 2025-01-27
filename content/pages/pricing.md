@@ -60,7 +60,7 @@ sections:
           url: /images/fabian-blank-pElSkGRA2NU-unsplash.jpg
           altText: Pricing plan 2
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
