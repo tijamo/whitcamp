@@ -23,7 +23,7 @@ sections:
           - Adults (18+)
           - Concession
           - Students
-          - Feature four
+          - Children (5-13)
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
