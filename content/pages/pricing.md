@@ -48,7 +48,7 @@ sections:
 
         features:
           - Adults (18+) -
-          - Feature two
+          - Concession -
           - Feature three
           - Feature four
           - ''
