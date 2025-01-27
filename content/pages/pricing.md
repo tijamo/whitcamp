@@ -13,7 +13,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - type: PricingPlan
-        title: Developers
+        title: ''
         price: Early Bird
         details: Pre April 28th 2025
         description: >-
