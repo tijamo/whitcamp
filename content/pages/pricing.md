@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: Developers
         price: Early Bird
-        details: Pre April
+        details: Pre April 28th 2025
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
