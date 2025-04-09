@@ -36,7 +36,7 @@ sections:
     colors: bg-dark-fg-light
     backgroundImage:
       type: BackgroundImage
-      url: /images/building.jpg
+      url: /images/Banner 3.png
       altText: Building
       backgroundSize: cover
       backgroundPosition: center
