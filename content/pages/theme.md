@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Finding Light in Lamentations
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: James Riley (Bournemouth)
     text: >
       A Netlify website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
