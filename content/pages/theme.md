@@ -28,7 +28,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Location
+      text: Theme
       color: text-light
     subtitle: ''
     text: ''
