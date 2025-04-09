@@ -11,7 +11,7 @@ sections:
     text: "Hope in the shadows is an opportunity to reflect on the book of Lamentations - that difficult to find book that we often skip over... I mean who wants to spend a weekend reading a book filled with pain, difficulty and sorrow!\_ Sorry about that! ... but that's only half of it!\_\n\nThe book of Lamentations is filled with messages of hope and we will take a journey through a framework of suffering ending ultimately at a bright vision of the Kingdom.\n"
     actions:
       - type: Button
-        label: Get started
+        label: Start Reading Lamentations Here
         altText: ''
         url: /
         showIcon: false
