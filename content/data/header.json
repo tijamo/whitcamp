@@ -46,7 +46,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Theme",
             "altText": "",
             "url": "/theme",
             "showIcon": false,
