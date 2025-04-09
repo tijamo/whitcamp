@@ -13,7 +13,8 @@ sections:
       - type: Button
         label: Start Reading Lamentations Here
         altText: ''
-        url: /
+        url: >-
+          https://www.biblegateway.com/passage/?search=Lamentations%201&version=NIV
         showIcon: false
         icon: arrowRight
         iconPosition: right
