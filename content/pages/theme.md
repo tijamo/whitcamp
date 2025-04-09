@@ -8,10 +8,7 @@ sections:
       text: Finding Light in Lamentations
       color: text-dark
     subtitle: James Riley (Bournemouth)
-    text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "Hope in the shadows is an opportunity to reflect on the book of Lamentations - that difficult to find book that we often skip over... I mean who wants to spend a weekend reading a book filled with pain, difficulty and sorrow!\_ Sorry about that! ... but that's only half of it!\_ The book of Lamentations is filled with messages of hope and we will take a journey through a framework of suffering ending ultimately at a bright vision of the Kingdom.\n\n\n"
     actions:
       - type: Button
         label: Get started
