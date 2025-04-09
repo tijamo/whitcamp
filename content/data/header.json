@@ -46,7 +46,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Theme",
             "altText": "",
             "url": "/theme",
             "showIcon": false,
