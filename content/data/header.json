@@ -50,7 +50,7 @@
             "altText": "",
             "url": "/theme",
             "showIcon": false,
-            "icon": "arrowRight",
+            "icon": "mail",
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
