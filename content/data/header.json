@@ -46,7 +46,7 @@
         },
         {
             "type": "Link",
-            "label": "Contact",
+            "label": "Useful Info",
             "altText": "Contact Us",
             "url": "/contact",
             "showIcon": false,
