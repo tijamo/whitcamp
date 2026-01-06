@@ -58,17 +58,7 @@ sections:
 
       We're also excited to have **Richard Alleyne** leading our young adults
       group!
-    actions:
-      - type: Button
-        label: Start Reading Lamentations Here
-        altText: ''
-        url: >-
-          https://www.biblegateway.com/passage/?search=Lamentations%201&version=NIV
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       altText: Unblock your team boost your time to production preview
