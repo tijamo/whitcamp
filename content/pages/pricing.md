@@ -37,15 +37,15 @@ sections:
         price: Early Bird
         details: ''
         description: |
-          Pre April 28th 2025 PRICES
+          Pre April 9th 2026 PRICES
         features:
-          - Adults (18+) - £81 Weekend / £27 Day
-          - Concession - £69 Weekend / £23 Day
-          - Students - £60 Weekend / £20 Day
-          - Children (14-17) - £60 Weekend / £20 Day
-          - Children (5-13) - £51 Weekend / £17 Day
+          - Adults (18+) - £90 Weekend / £30 Day
+          - Concession - £78 Weekend / £26 Day
+          - Students -£66 Weekend / £22 Day
+          - Children (14-17) - £66 Weekend / £22 Day
+          - Children (5-13) - £54 Weekend / £18
           - Under 5's - Free
-          - FAMILY CAP - £282 Weekend / £94 Day
+          - FAMILY CAP - £312 Weekend / £104 Day
         image:
           type: ImageBlock
           url: /images/clock.png
@@ -64,17 +64,16 @@ sections:
         title: ''
         price: Standard
         details: ''
-        description: |2+
-           Post April 28th 2025 Prices
-
+        description: |
+          Post April 9th 2026 Prices
         features:
-          - Adults (18+) - £90 Weekend / £30 Day
-          - Concession - £78 Weekend / £26 Day
-          - Students -£69 Weekend / £23 Day
-          - Children (14-17) - £69 Weekend / £23 Day
-          - Children (5-13) - £60 Weekend / £20
+          - Adults (18+) - £99 Weekend / £33 Day
+          - Concession - £87 Weekend / £29 Day
+          - Students -£75 Weekend / £25 Day
+          - Children (14-17) - £75 Weekend / £25 Day
+          - Children (5-13) - £63 Weekend / £21
           - Under 5's - Free
-          - FAMILY CAP - £318 Weekend / £98 Day
+          - FAMILY CAP - £348 Weekend / £116 Day
         image:
           type: ImageBlock
           url: /images/pig.png
