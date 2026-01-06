@@ -53,11 +53,7 @@ sections:
     subtitle: Mick Roberts (Ashby) - Leading our Main Morning Sessions
     text: >
       This year we're looking forward to having the company of **Mick Roberts
-      from Ashby** to speak to us on during our main morning sessions. 
-
-
-      We're also excited to have **Richard Alleyne** leading our young adults
-      group!
+      from Ashby** to speak to us on during our main morning sessions.
     actions: []
     media:
       type: ImageBlock
