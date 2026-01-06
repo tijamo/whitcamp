@@ -48,7 +48,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Finding Light in Lamentations
+      text: "TITLE\_ TO BE CONFIMED"
       color: text-dark
     subtitle: James Riley (Bournemouth)
     text: "This years theme is an opportunity to reflect on the book of Lamentations - that difficult to find book that we often skip over... I mean who wants to spend a weekend reading a book filled with pain, difficulty and sorrow!\_ Sorry about that! ... but that's only half of it!\_\n\nThe book of Lamentations is filled with messages of hope and we will take a journey through a framework of suffering ending ultimately at a bright vision of the Kingdom.\n"
