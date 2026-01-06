@@ -48,29 +48,20 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Finding Light in Lamentations
+      text: ''
       color: text-dark
-    subtitle: James Riley (Bournemouth)
-    text: "This years theme is an opportunity to reflect on the book of Lamentations - that difficult to find book that we often skip over... I mean who wants to spend a weekend reading a book filled with pain, difficulty and sorrow!\_ Sorry about that! ... but that's only half of it!\_\n\nThe book of Lamentations is filled with messages of hope and we will take a journey through a framework of suffering ending ultimately at a bright vision of the Kingdom.\n"
-    actions:
-      - type: Button
-        label: Start Reading Lamentations Here
-        altText: ''
-        url: >-
-          https://www.biblegateway.com/passage/?search=Lamentations%201&version=NIV
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    subtitle: Main Morning Sessions - Mick Roberts (Ashby)
+    text: >
+      This year we're looking forward to having the company of **Mick Roberts
+      from Ashby** to speak to us on during our main morning sessions.
+    actions: []
     media:
       type: ImageBlock
-      url: /images/Theme Image.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: THIS YEARS BIBLE TEACHERS
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
@@ -83,6 +74,20 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: Young Adults Sessions - Richard Alleyne
+    text: >
+      We're excited to have Richard Alleyne coming to speak to our young adults
+      group this year
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
 slug: theme
 seo:
   type: Seo
