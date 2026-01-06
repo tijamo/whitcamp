@@ -42,7 +42,7 @@ sections:
           - Adults (18+) - £90 Weekend / £30 Day
           - Concession - £78 Weekend / £26 Day
           - Students -£66 Weekend / £23 Day
-          - Children (14-17) - £66 Weekend / £23 Day
+          - Children (14-17) - £66 Weekend / £22 Day
           - Children (5-13) - £54 Weekend / £18
           - Under 5's - Free
           - FAMILY CAP - £312 Weekend / £104 Day
