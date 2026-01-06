@@ -25,6 +25,10 @@ sections:
           - pl-0
           - pb-0
           - pr-0
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: GenericSection
     title:
       type: TitleBlock
