@@ -33,11 +33,10 @@ sections:
       to avoid disappointment!
 
 
-      [Book Now](https://forms.gle/oBUAye3DMwujsh2FA)
+      Book Now
 
 
-      [Under 18 Sponsor Consent
-      Form](https://drive.google.com/file/d/10AV97KcphsDk5Hqcarb-6gTD_kRvgxDM/view?usp=drive_link)
+      Under 18 Sponsor Consent Form
     actions: []
     colors: bg-light-fg-dark
     styles:
