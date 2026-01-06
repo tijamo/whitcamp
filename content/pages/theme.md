@@ -81,8 +81,8 @@ sections:
       color: text-dark
     subtitle: Young Adults Sessions - Richard Alleyne
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      We're excited to have Richard Alleyne coming to speak to our young adults
+      group this year
     actions:
       - type: Button
         label: Get started
