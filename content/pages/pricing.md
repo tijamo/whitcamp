@@ -64,9 +64,8 @@ sections:
         title: ''
         price: Standard
         details: ''
-        description: |2+
-           Post April 28th 2025 Prices
-
+        description: |
+          Post April 9th 2026 Prices
         features:
           - Adults (18+) - £90 Weekend / £30 Day
           - Concession - £78 Weekend / £26 Day
