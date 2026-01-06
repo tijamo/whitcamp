@@ -39,7 +39,7 @@ sections:
         description: |
           Pre April 9th 2026 PRICES
         features:
-          - Adults (18+) - £81 Weekend / £27 Day
+          - Adults (18+) - £90 Weekend / £30 Day
           - Concession - £69 Weekend / £23 Day
           - Students - £60 Weekend / £20 Day
           - Children (14-17) - £60 Weekend / £20 Day
