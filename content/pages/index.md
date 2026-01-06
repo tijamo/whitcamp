@@ -52,7 +52,7 @@ sections:
       an exciting weekend of fun, fellowship and worship
     actions:
       - type: Link
-        label: Click the links above more information to make a booking
+        label: Click the links above for more information and to make a booking
         url: /
         showIcon: true
         icon: arrowRight
