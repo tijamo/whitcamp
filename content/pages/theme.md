@@ -79,7 +79,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Young Adults Sessions - Richard Alleyne
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
