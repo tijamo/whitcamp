@@ -78,7 +78,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      ### Bookings open Sunday 11th January 7pm
+      ### Bookings open Sunday 11th January 2026 7pm
 
 
       If you have signed up to be on the mailing list, you will receive an email
