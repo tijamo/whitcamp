@@ -51,7 +51,13 @@ sections:
       text: ''
       color: text-dark
     subtitle: Mick Roberts (Ashby)
-    text: "This years theme is an opportunity to reflect on the book of Lamentations - that difficult to find book that we often skip over... I mean who wants to spend a weekend reading a book filled with pain, difficulty and sorrow!\_ Sorry about that! ... but that's only half of it!\_\n\nThe book of Lamentations is filled with messages of hope and we will take a journey through a framework of suffering ending ultimately at a bright vision of the Kingdom.\n"
+    text: >
+      This year we're looking forward to having the company of **Mick Roberts
+      from Ashby** to speak to us on during our main morning sessions. 
+
+
+      We're also excited to have **Richard Alleyne** leading our young adults
+      group!
     actions:
       - type: Button
         label: Start Reading Lamentations Here
