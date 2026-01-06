@@ -71,7 +71,6 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/Theme Image.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
