@@ -45,7 +45,7 @@ sections:
           - Children (14-17) - £66 Weekend / £23 Day
           - Children (5-13) - £54VWeekend / £20
           - Under 5's - Free
-          - FAMILY CAP - £318 Weekend / £98 Day
+          - FAMILY CAP - £312 Weekend / £98 Day
         image:
           type: ImageBlock
           url: /images/clock.png
