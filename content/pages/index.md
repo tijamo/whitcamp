@@ -44,15 +44,15 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: WHIT CAMP 2025
+      text: WHIT CAMP 2026
       color: text-dark
     subtitle: Be in good company
     text: >
-      We're back in Leicestershire at Grace Dieu Manor for another fantastic
-      weekend of fun, fellowship and worship
+      We're back in Leicestershire at Grace Dieu Manor for our second year and
+      an exciting weekend of fun, fellowship and worship
     actions:
       - type: Link
-        label: Click the links above more information to make a booking
+        label: Click the links above for more information and to make a booking
         url: /
         showIcon: true
         icon: arrowRight
@@ -61,7 +61,7 @@ sections:
     media:
       type: ImageBlock
       altText: Dope design preview
-      url: /images/Main Logo.png
+      url: /images/MAINLOGO.png
     badge:
       type: Badge
       label: ''
@@ -78,7 +78,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      ### Bookings open Sunday 26th January 7pm
+      ### Bookings open Sunday 11th January 2026 7pm
 
 
       If you have signed up to be on the mailing list, you will receive an email
