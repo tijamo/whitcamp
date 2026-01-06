@@ -44,7 +44,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: WHIT CAMP 2025
+      text: WHIT CAMP 2026
       color: text-dark
     subtitle: Be in good company
     text: >
