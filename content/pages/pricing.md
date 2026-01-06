@@ -73,7 +73,7 @@ sections:
           - Children (14-17) - £69 Weekend / £25 Day
           - Children (5-13) - £60 Weekend / £21
           - Under 5's - Free
-          - FAMILY CAP - £318 Weekend / £98 Day
+          - FAMILY CAP - £318 Weekend / £116 Day
         image:
           type: ImageBlock
           url: /images/pig.png
