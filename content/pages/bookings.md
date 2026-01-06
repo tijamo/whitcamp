@@ -31,12 +31,6 @@ sections:
     text: >
       Bookings open 7pm on Sunday January 11th. Spaces are limited so book early
       to avoid disappointment!
-
-
-      Book Now
-
-
-      Under 18 Sponsor Consent Form
     actions: []
     colors: bg-light-fg-dark
     styles:
