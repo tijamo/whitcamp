@@ -59,7 +59,7 @@
     "secondaryLinks": [
         {
             "label": "Book Now",
-            "url": "https://forms.gle/oBUAye3DMwujsh2FA",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
