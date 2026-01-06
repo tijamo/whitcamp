@@ -83,14 +83,7 @@ sections:
     text: >
       We're excited to have Richard Alleyne coming to speak to our young adults
       group this year
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     colors: bg-light-fg-dark
     styles:
       self:
