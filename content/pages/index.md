@@ -48,8 +48,8 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      We're back in Leicestershire at Grace Dieu Manor for another fantastic
-      weekend of fun, fellowship and worship
+      We're back in Leicestershire at Grace Dieu Manor for our second year and
+      an exciting weekend of fun, fellowship and worship
     actions:
       - type: Link
         label: Click the links above more information to make a booking
