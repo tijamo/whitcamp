@@ -50,7 +50,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Mick Roberts (Ashby)
+    subtitle: Mick Roberts (Ashby) - Leading our Main Morning Sessions
     text: >
       This year we're looking forward to having the company of **Mick Roberts
       from Ashby** to speak to us on during our main morning sessions. 
