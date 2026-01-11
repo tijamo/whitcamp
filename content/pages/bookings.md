@@ -55,6 +55,41 @@ sections:
           - pb-6
           - pr-6
   - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Social Media Management
+      color: text-dark
+    subtitle: Increase your reach
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+  - type: GenericSection
     subtitle: Sponsor Form for under 18's unaccompanied by Parent/Legal Guardian
     text: "If you are booking a place for a minor (under 18), unaccompanied by parents/legal guardian, you must complete and return the form below to a member of the Whit Camp Committee.\_\n\nThe form\_MUST\_be signed by the parent/legal guardian AND\_the person(s) who will take the role of sponsor for Whit Camp. The booking is\_not confirmed\_until the form is received and the sponsors booking is also received.\_\n"
     actions:
