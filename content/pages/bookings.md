@@ -75,38 +75,6 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: left
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: On Site Accommodation
-    text: >+
-      This year we're able to offer a limited number of single rooms with
-      ensuite. There will be an additional cost for this option please contact
-      <bookings@whitcamp.co.uk> for costs and more information
-
-
-
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
 slug: /bookings
 isDraft: false
 ---
