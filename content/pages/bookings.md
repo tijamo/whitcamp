@@ -56,7 +56,7 @@ sections:
           - pr-6
   - type: GenericSection
     subtitle: Sponsor Form for under 18's unaccompanied by Parent/Legal Guardian
-    text: "If you are booking a place for a minor (under 18), unaccompanied by parents/legal guardian or carers, you must complete and return the form below to a member of the Whit Camp Committee.\_\n\nThe form\_MUST\_be signed by the parent/legal guardian/carer\_AND\_the person(s) who will take the role of sponsor for Whit Camp. The booking is\_not confirmed\_until the form is received and the sponsors booking is also received.\_\n"
+    text: "If you are booking a place for a minor (under 18), unaccompanied by parents/legal guardian, you must complete and return the form below to a member of the Whit Camp Committee.\_\n\nThe form\_MUST\_be signed by the parent/legal guardian/carer\_AND\_the person(s) who will take the role of sponsor for Whit Camp. The booking is\_not confirmed\_until the form is received and the sponsors booking is also received.\_\n"
     actions:
       - type: Button
         label: UNDER 18 SPONSOR FORM
