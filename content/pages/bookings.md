@@ -55,6 +55,27 @@ sections:
           - pb-6
           - pr-6
   - type: GenericSection
+    subtitle: Sponsor Form for under 18's unaccompanied by Parent/Legal Guardian
+    text: "If you are booking a place for a minor (under 18), unaccompanied by parents/legal guardian, you must complete and return the form below to a member of the Whit Camp Committee.\_\n\nThe form\_MUST\_be signed by the parent/legal guardian AND\_the person(s) who will take the role of sponsor for Whit Camp. The booking is\_not confirmed\_until the form is received and the sponsors booking is also received.\_\n"
+    actions:
+      - type: Button
+        label: UNDER 18 SPONSOR FORM
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/1CXuvtKLDsRwZvFYdyNn2UpMVvrQSiJp6/view?usp=sharing
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: flex-start
+      subtitle:
+        textAlign: left
+  - type: GenericSection
     subtitle: Increase your reach
     text: >
       A service that helps businesses to manage their social media accounts and
@@ -85,27 +106,6 @@ sections:
     styles:
       self:
         alignItems: center
-  - type: GenericSection
-    subtitle: Sponsor Form for under 18's unaccompanied by Parent/Legal Guardian
-    text: "If you are booking a place for a minor (under 18), unaccompanied by parents/legal guardian, you must complete and return the form below to a member of the Whit Camp Committee.\_\n\nThe form\_MUST\_be signed by the parent/legal guardian AND\_the person(s) who will take the role of sponsor for Whit Camp. The booking is\_not confirmed\_until the form is received and the sponsors booking is also received.\_\n"
-    actions:
-      - type: Button
-        label: UNDER 18 SPONSOR FORM
-        altText: ''
-        url: >-
-          https://drive.google.com/file/d/1CXuvtKLDsRwZvFYdyNn2UpMVvrQSiJp6/view?usp=sharing
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: flex-start
-      subtitle:
-        textAlign: left
 slug: /bookings
 isDraft: false
 ---
