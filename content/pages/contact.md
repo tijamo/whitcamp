@@ -28,7 +28,7 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: "If you have any booking queries then please telephone or email Joyce (<bookings@whitcamp.co.uk>).\n\nFor more general queries please use the form to the right or email\_<committee@whitcamp.co.uk>.\n\nDownload the Under 18 Sponsor Consent Form [here](https://drive.google.com/file/d/10AV97KcphsDk5Hqcarb-6gTD_kRvgxDM/view?usp=sharing)\n"
+    text: "If you have any booking queries then please telephone or email Joyce (<bookings@whitcamp.co.uk>).\n\nFor more general queries please use the form to the right or email\_<committee@whitcamp.co.uk>.\n"
     actions: []
     colors: bg-light-fg-dark
     styles:
