@@ -50,11 +50,7 @@ sections:
           - pr-6
   - type: GenericSection
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "**Sponsor Form for under 18's unaccompanied by Parent/Legal Guardian**\n\nIf you are booking a place for a minor (under 18), unaccompanied by parents/legal guardian or carers, you must complete and return this form [(Under 18 Sponsor Form)](https://drive.google.com/file/d/1CXuvtKLDsRwZvFYdyNn2UpMVvrQSiJp6/view?usp=sharing) to a member of the Whit Camp Committee.\_\n\nThe form\_MUST\_be signed by the parent/legal guardian/carer\_AND\_the person(s) who will take the role of sponsor for Whit Camp. The booking is\_not confirmed\_until the form is received and the sponsors booking is also received.\_\n\n\n\n"
     actions: []
     colors: bg-light-fg-dark
     styles:
