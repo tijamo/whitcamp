@@ -33,11 +33,9 @@ sections:
       Grace Dieu Manor, near Ashby
 
 
-      **The Site**
-
-      The new site is at a private football academy and includes all of our
+      **The Site** is at a private football academy and includes all of our
       usual facilities, large camp area, Swimming Pool, Sports Hall and
-      classrooms. Its located a few minutes from Junction 23 of the M1 with
+      classrooms. It's located a few minutes from Junction 23 of the M1 with
       hotel accommodation close by. ***They've even fixed the showers!!***
 
 
