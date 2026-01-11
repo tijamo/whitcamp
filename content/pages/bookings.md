@@ -81,9 +81,16 @@ sections:
       text: Social Media Management
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      **Onsite Accommodation**
+
+
+      This year we're able to offer a limited number of single rooms with
+      ensuite. There will be an additional cost for this option please contact
+      <bookings@whitcamp.co.uk> for costs and more information
+
+
+
     actions:
       - type: Button
         label: Get started
