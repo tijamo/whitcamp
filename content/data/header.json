@@ -59,7 +59,7 @@
     "secondaryLinks": [
         {
             "label": "Book Now",
-            "url": "www.whitcamp.co.uk/bookings/",
+            "url": "/bookings",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
