@@ -27,9 +27,24 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: ''
-    text: "Bookings open 7pm on Sunday January 11th. Spaces are limited so book early to avoid disappointment!\n\n\n\n**Sponsor Form for under 18's unaccompanied by Parent/Legal Guardian**\n\nIf you are booking a place for a minor (under 18), unaccompanied by parents/legal guardian or carers, you must complete and return this form [(Under 18 Sponsor Form)](https://drive.google.com/file/d/1CXuvtKLDsRwZvFYdyNn2UpMVvrQSiJp6/view?usp=sharing) to a member of the Whit Camp Committee.\_\n\nThe form\_MUST\_be signed by the parent/legal guardian/carer\_AND\_the person(s) who will take the role of sponsor for Whit Camp. The booking is\_not confirmed\_until the form is received and the sponsors booking is also received.\_\n\n"
-    actions: []
+    subtitle: BOOKINGS ARE OPEN!!
+    text: >
+      Click on the Link Below to book your space on Whit Camp 2026. The form
+      explains the process for bookings both individuals and groups
+
+
+      **Scroll down for information for under 18's who will be unaccompanied by
+      Parent/Legal Guardian**
+    actions:
+      - type: Button
+        label: BOOK NOW
+        altText: ''
+        url: 'https://forms.gle/fwRqxAuj9qFhsByA7'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
@@ -39,6 +54,49 @@ sections:
           - pl-6
           - pb-6
           - pr-6
+  - type: GenericSection
+    subtitle: Sponsor Form for under 18's unaccompanied by Parent/Legal Guardian
+    text: "If you are booking a place for a minor (under 18), unaccompanied by parents/legal guardian, you must complete and return the form below to a member of the Whit Camp Committee.\_\n\nThe form\_MUST\_be signed by the parent/legal guardian AND\_the person(s) who will take the role of sponsor for Whit Camp. The booking is\_not confirmed\_until the form is received and the sponsors booking is also received.\_\n"
+    actions:
+      - type: Button
+        label: UNDER 18 SPONSOR FORM
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/1CXuvtKLDsRwZvFYdyNn2UpMVvrQSiJp6/view?usp=sharing
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: flex-start
+      subtitle:
+        textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: Onsite Accomodation
+    text: >
+      This year Grace Dieu have been able to offer a limited number of single
+      rooms with ensuite. The cost of this is £70 per room per night. Please
+      contact <bookings@whitcamp.co.uk> for more information
+    actions: []
+    media:
+      type: ImageBlock
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
 slug: /bookings
 isDraft: false
 ---
