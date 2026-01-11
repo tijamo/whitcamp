@@ -75,26 +75,6 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: left
-  - type: GenericSection
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
 slug: /bookings
 isDraft: false
 ---
