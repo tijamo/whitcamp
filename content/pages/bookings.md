@@ -81,16 +81,10 @@ sections:
       text: Social Media Management
       color: text-dark
     subtitle: Onsite Accomodation
-    text: >+
-      **Onsite Accommodation**
-
-
-      This year we're able to offer a limited number of single rooms with
-      ensuite. There will be an additional cost for this option please contact
-      <bookings@whitcamp.co.uk> for costs and more information
-
-
-
+    text: >
+      This year Grace Dieu have been able to offer a limited number of single
+      rooms with ensuite. The cost of this is £70 per room per night. Please
+      contact <bookings@whitcamp.co.uk> for costs and more information
     actions:
       - type: Button
         label: Get started
