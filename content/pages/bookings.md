@@ -85,13 +85,7 @@ sections:
       This year Grace Dieu have been able to offer a limited number of single
       rooms with ensuite. The cost of this is £70 per room per night. Please
       contact <bookings@whitcamp.co.uk> for more information
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       altText: Fun feature preview
