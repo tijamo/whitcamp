@@ -33,11 +33,9 @@ sections:
       Grace Dieu Manor, near Ashby
 
 
-      **The Site**
-
-      The new site is at a private football academy and includes all of our
+      **The Site** is at a private football academy and includes all of our
       usual facilities, large camp area, Swimming Pool, Sports Hall and
-      classrooms. Its located a few minutes from Junction 23 of the M1 with
+      classrooms. It's located a few minutes from Junction 23 of the M1 with
       hotel accommodation close by. ***They've even fixed the showers!!***
 
 
@@ -69,13 +67,24 @@ sections:
 
       **Accommodation and catering**
 
-      Bring either a tent or a caravan or campervan - in addition we're hoping
-      to be able to use some limited on-site accommodation, although this is
-      still to be confirmed. This is expected to be at a premium and we may need
-      to give priority to those in particular need. Some people find a local
+      Bring either a tent, caravan or campervan. Some people find a local
       guesthouse accommodation more convenient, but you will need to book it
-      early. All meals are provided at camp; groups of people will be rostered
-      to prepare meals to pre-planned menus. Toilet and shower facilities are
+      early.
+
+
+      **Onsite Accommodation**
+
+
+      This year we're able to offer a limited number of single rooms with
+      ensuite. There will be an additional cost for this option please contact
+      bookings\@whitcamp.co.uk for costs and more information
+
+
+      **Meals**
+
+
+      All meals are provided at camp; groups of people will be rostered to
+      prepare meals to pre-planned menus. Toilet and shower facilities are
       available.
 
 
@@ -94,10 +103,10 @@ sections:
 
       **Parents and Sponsoring**
 
-      Those under 18 who are not coming with a parent, must be sponsored by a
-      suitable adult who will be at camp. If you need to be sponsored, please
-      make sure you approach the person who is sponsoring you well in advance so
-      that they can include you in their booking.
+      Those under 18 who are not coming with a parent/legal guardian, must be
+      sponsored by a suitable adult who will be at camp. If you need to be
+      sponsored, please make sure you approach the person who is sponsoring you
+      well in advance so that they can include you in their booking.
 
 
       Parents and Sponsors - the safety and conduct of children and under 18s
