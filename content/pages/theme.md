@@ -81,8 +81,8 @@ sections:
       color: text-dark
     subtitle: Young Adults Sessions - Richard Alleyne
     text: >
-      We're excited to have Richard Alleyne coming to speak to our young adults
-      group this year
+      We're excited to have **Richard Alleyne** coming to speak to our young
+      adults group this year
     actions: []
     colors: bg-light-fg-dark
     styles:
