@@ -46,7 +46,7 @@ sections:
       type: TitleBlock
       text: WHIT CAMP 2026
       color: text-dark
-    subtitle: Be in good company
+    subtitle: 22-25 May 2026
     text: >
       We're back in Leicestershire at Grace Dieu Manor for our second year and
       an exciting weekend of fun, fellowship and worship
