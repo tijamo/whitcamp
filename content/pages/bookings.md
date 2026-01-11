@@ -81,9 +81,13 @@ sections:
       text: ''
       color: text-dark
     subtitle: On Site Accommodation
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      This year we're able to offer a limited number of single rooms with
+      ensuite. There will be an additional cost for this option please contact
+      <bookings@whitcamp.co.uk> for costs and more information
+
+
+
     actions:
       - type: Button
         label: Get started
