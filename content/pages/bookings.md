@@ -69,7 +69,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: SPONSOR FORM (WORD)
+        label: UNDER 18 SPONSOR FORM (WORD)
         altText: ''
         url: >-
           https://docs.google.com/document/d/1wBRaK71Lw-CUmG1afzZ-E0yZd5NRmWkP/edit?usp=drive_link&ouid=118088479588854482360&rtpof=true&sd=true
