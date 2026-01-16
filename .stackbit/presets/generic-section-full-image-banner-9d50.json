@@ -1,0 +1,57 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Full Image Banner",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "image"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": null,
+                "subtitle": "",
+                "text": "",
+                "actions": [],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/trees.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Dope design preview",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderWidth": 0,
+                            "borderStyle": "none",
+                            "borderRadius": "none"
+                        }
+                    }
+                },
+                "badge": null,
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "flexDirection": "col",
+                        "justifyContent": "center",
+                        "padding": [
+                            "pt-0",
+                            "pl-0",
+                            "pb-0",
+                            "pr-0"
+                        ]
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-full-image-banner-9d50.png"
+        }
+    ]
+}
