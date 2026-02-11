@@ -50,7 +50,9 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Main Morning Sessions - Mick Roberts (Ashby) -
+    subtitle: >-
+      Main Morning Sessions - Mick Roberts (Ashby) -'A world to Clever for
+      Christ'
     text: >
       This year we're looking forward to having the company of **Mick Roberts
       from Ashby** to speak to us on during our main morning sessions.
