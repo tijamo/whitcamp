@@ -75,9 +75,9 @@ sections:
       **Onsite Accommodation**
 
 
-      This year we're able to offer a limited number of single rooms with
-      ensuite. There will be an additional cost for this option please contact
-      bookings\@whitcamp.co.uk for costs and more information
+      Sadly the amount of onsite accomodation we can offer has had to be
+      reduced. Therefore we're not able to offer any further bookings at the
+      moment.  For more information contact bookings\@whitcamp.co.uk
 
 
       **Meals**
