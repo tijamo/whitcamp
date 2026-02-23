@@ -82,9 +82,16 @@ sections:
       text: ''
       color: text-dark
     subtitle: Young Adults Sessions - Richard Alleyne
-    text: >
-      We're excited to have **Richard Alleyne** coming to speak to our young
-      adults group this year
+    text: >+
+      In this world there are millions of voices speaking to us yet Gods voice
+      continues to be heard. 
+
+
+      We need to have REASONS behind what we think and believe. These sessions
+      are a chance to be CHALLENGED and INSPIRED to hear God clearly in 2026
+
+
+
     actions: []
     colors: bg-light-fg-dark
     styles:
