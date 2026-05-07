@@ -1,0 +1,50 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Title with Image",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "title"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Location",
+                    "color": "text-light",
+                    "styles": null
+                },
+                "subtitle": "",
+                "text": "",
+                "actions": [],
+                "media": null,
+                "badge": null,
+                "elementId": null,
+                "colors": "bg-dark-fg-light",
+                "backgroundImage": {
+                    "$$type": "BackgroundImage",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/building.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Building",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "backgroundRepeat": "no-repeat",
+                    "opacity": 100
+                },
+                "styles": {
+                    "self": {
+                        "alignItems": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-title-with-image-c15f.png"
+        }
+    ]
+}
